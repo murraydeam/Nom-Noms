@@ -1,0 +1,45 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    transition: font-size .4s ease-in-out;
+}
+
+h1:hover {
+    font-size: 60px;
+}
+h2 {
+    color: rgb(121, 47, 121);
+}
+h3 {
+    color: rgb(87, 193, 228);
+}
+h3 {
+    font-size: 40px;
+    transition: font-size .4s ease-in-out;
+}
+
+li {
+    font-size: 24px;
+}
+
+a {
+    color: inherit;
+    transition: font-size .25s ease-in-out;
+}
+
+a:hover {
+    font-size: 28px;
+}
+
+ol {
+    list-style-type: upper-roman;
+}
+
+
+
+
+
